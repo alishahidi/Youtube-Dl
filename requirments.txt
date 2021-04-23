@@ -1,0 +1,8 @@
+pytube
+termcolor
+pyfiglet
+requests
+ffmpeg
+pydub
+ffmpeg-python
+tqdm
