@@ -1,13 +1,13 @@
-# dgLinker
-get Information from user when click on link
+# Youtube-Downloader-python
+Downloade with python from youtube
 
 Usage For linux
 
 Run
 
-<code>git clone https://github.com/Alishahidi/dgLinker.git</code>
+<code>git clone https://github.com/Alishahidi/Youtube-Downloader-python</code>
 
-<code>cd dgLinker</code>
+<code>cd Youtube-Downloader-python</code>
 
 for debian
 <code>sudo chmod +x install-db.sh</code>
@@ -29,7 +29,12 @@ Install python3 manually
 
 Usage
 
-<code>python3 dgLinker.py</code>
+<code>python3 yt.py</code>
+
+or
+
+<code>python3 yt.py link</code>
+
 
 if you cant install from bash installer for linux
 
@@ -40,6 +45,6 @@ requirements
 
 <code>python</code>
 <code>python3</code>
+<code>ffmpeg</code>
+<code>lame</code>
 <code>python3-pip</code>
-
-This tool is only for white hat hackers and I will not be responsible for the misuse of this tool
